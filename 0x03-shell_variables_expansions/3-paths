@@ -1,2 +1,0 @@
-#!/bin/bash
-echo MyPATH | tr : n | wc -l
